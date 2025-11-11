@@ -760,6 +760,7 @@ body {
 /* OtpVerification.css */
 /* --- नए स्टाइल्स --- */
 /* --- पहले के स्टाइल्स --- */
+/* --- पहले के स्टाइल्स --- */
 .otp-container {
   display: flex;
   flex-direction: column;
@@ -796,7 +797,7 @@ body {
   flex-direction: column;
   align-items: center;
   background-color: #ffffff;
-  padding: 40px 20px;
+  padding: 40px 30px;
   border-radius: 12px;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.07);
   border: 1px solid #e0e0e0;
@@ -904,13 +905,13 @@ body {
 
   /* 4. इनपुट बॉक्स के बीच गैप कम करें */
   .otp-inputs {
-    gap: 4px;
+    gap: 8px;
   }
 
   /* 5. इनपुट बॉक्स को छोटा करें */
   .otp-input {
-    width: 30px; /* 60px से 40px किया */
-    height: 30px; /* 60px से 40px किया */
+    width: 40px; /* 60px से 40px किया */
+    height: 40px; /* 60px से 40px किया */
     font-size: 18px; /* 28px से 18px किया */
   }
 
