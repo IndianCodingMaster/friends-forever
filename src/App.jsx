@@ -1,4 +1,4 @@
-import OtpContainer from "./components/OtpContainer";
+import OtpManager from "./components/OtpManager";
 // import "./App.css";
 // import LeftSidebar from "./components/LeftSidebar";
 // import MainFeed from "./components/MainFeed";
@@ -33,7 +33,7 @@ const App = () => {
     // </>
 
     <>
-      <OtpContainer />
+      <OtpManager />
     </>
   );
 };
